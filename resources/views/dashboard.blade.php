@@ -204,7 +204,7 @@
 										<span class="text-muted">Kelola jadwal kunjungan konsultasi yang tersedia dapat dilakukan disini</span>
 									</div>
 									<div class="mt-3 mb-3">
-										<button class="w-100 btn btn-lg btn-success" type="submit">Kelola</button>
+										<button class="w-100 btn btn-lg btn-primary" type="submit">Kelola</button>
 									</div>
 								</div>
 							</div>
